@@ -5,4 +5,3 @@ streamlit
 faiss-cpu
 OpenAI
 requests
-tiktoken
